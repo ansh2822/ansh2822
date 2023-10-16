@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anshu920597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu920597" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshu-kumar-57ab7924a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfq9m4pgbsrotulveg6dsvw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshu-kumar-57ab7924a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfq9m4pgbsrotulveg6dsvw%3d%3d" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anshu-kumar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshu-kumar-57ab7924a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfq9m4pgbsrotulveg6dsvw%3d%3d" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ansh_2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ansh_2822" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@infok2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@infok2228" height="30" width="40" /></a>
 </p>
