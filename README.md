@@ -81,6 +81,15 @@ which turns scattered Indian government data into something you can actually rea
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh2822&show_icons=true&hide_border=true&locale=en" alt="Anshu Kumar's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh2822&show_icons=true&hide_border=true&locale=en&layout=compact" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh2822&theme=github_dark" alt="Profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansh2822&theme=github_dark" alt="Top languages by repo" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansh2822&theme=github_dark" alt="Top languages by commit" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansh2822&theme=github_dark" alt="GitHub stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansh2822&theme=github_dark&utcOffset=5.5" alt="Productive time" height="200" />
 </p>
