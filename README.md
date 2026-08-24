@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://my-portfolio-mu-fawn.vercel.app/#](https://my-portfolio-mu-fawn.vercel.app/#)
 
+- 📝 My resume is at [https://anshu-kumar.devlabz.in/](https://anshu-kumar.devlabz.in/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anshu920597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu920597" height="30" width="40" /></a>
